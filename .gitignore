@@ -1,0 +1,11 @@
+# Compiled files
+*.o
+blaissh
+
+# Debug files
+*.dSYM/
+
+# Editor files
+*~
+.vscode/
+.idea/
